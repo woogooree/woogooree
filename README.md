@@ -4,6 +4,8 @@
 #### Mail : woogooree@gmail.com
 #### Discord : woogooree
 
+#### C# / JAVA / NODE.JS
+
 <!--
 **woogooree/woogooree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
