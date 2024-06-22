@@ -4,6 +4,7 @@
 #### Mail : woogooree@gmail.com
 #### Discord : woogooree
 
+C# WPF / C, C++
 <!--
 **woogooree/woogooree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
